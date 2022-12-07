@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepes-code&langs_count=3&theme=dark">
 </a>
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=LyricalString%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Bepescode%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
 
 
 

@@ -13,14 +13,5 @@
 
 
 
-
-<div align="left">
-  <a href="https://discord.com/users/155411408752869377">
-    <img src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" align="left" height="205">
-  </a>
-</div>
-
-
-
 # ![](https://github-readme-stats.vercel.app/api?username=bepes-code&show_icons=true&theme=radical)
 # ![https://github.com/bepes-code](https://cdn.discordapp.com/attachments/907327943792001086/1009898548810240020/firma-png.png) 

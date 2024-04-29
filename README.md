@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [BepesLabs](https://bepeslabs.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -16,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bepes-code&show_icons=true&locale=en" alt="bepes-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bepes-code&" alt="bepes-code" /></p>
